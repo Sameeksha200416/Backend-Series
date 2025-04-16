@@ -1,0 +1,16 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "sameeksha",
+  "license": "ISC",
+  "description": "a basic app to deploy",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
